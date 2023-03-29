@@ -1,5 +1,20 @@
 if (!isServer) exitWith {};
 
+/* 
+
+Example: crate0 addItemCargoGlobal ["", 1]; 
+
+First value is the name of the container, in this case crate0.
+
+Second bit of code adds a specific classname to a containers inventory - variations include Item, Weapon, Backpack and Magazine << IMPORTANT!!
+
+Squared brackets indicate the objects classname in "" and the number is the number of objects of this type to add.
+
+Close with ; and add a small comment behind // to show what this item is (sometimes they are hard to read from their classnames)
+
+
+*/
+
 // Crate 0 - Kezz *****************************************************************************
 
 crate0 addWeaponCargoGlobal ["vn_l1a1_xm148_camo", 1]; // L1A1 CAMO XM148

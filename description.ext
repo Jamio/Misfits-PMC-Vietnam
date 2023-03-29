@@ -1,0 +1,150 @@
+respawnOnStart = 0;
+disabledAI = 0;
+
+class CfgMusic
+{
+	tracks[] = {};
+	class buffalo
+	{
+		name	= "buffalo";
+		sound[]	= { "sounds\buffalo.ogg", db + 15, 1.0 };
+	};
+	class japdrums
+	{
+		name	= "japdrums";
+		sound[]	= { "sounds\japdrums.ogg", db + 15, 1.0 };
+	};
+};
+
+class CfgSounds
+{
+	sounds[] = {};
+	class smokeweed0
+	{
+		name = "smokeweed0";
+		sound[] = {"sounds\relaxsmoke.ogg", db+1, 0.5};
+		titles[] = {0,""};
+	};
+	class smokeweed1
+	{
+		name = "smokeweed1";
+		sound[] = {"sounds\relaxsmoke1.ogg", db+1, 0.75};
+		titles[] = {0,""};
+	};
+	class smokeweed2
+	{
+		name = "smokeweed2";
+		sound[] = {"sounds\relaxsmoke2.ogg", db+1, 0.75};
+		titles[] = {0,""};
+	};
+	class smokeweed3
+	{
+		name = "smokeweed3";
+		sound[] = {"sounds\relaxsmoke3.ogg", db+1, 0.55};
+		titles[] = {0,""};
+	};
+	class smokeweed4
+	{
+		name = "smokeweed4";
+		sound[] = {"sounds\relaxsmoke4.ogg", db+1, 0.75};
+		titles[] = {0,""};
+	};
+	class inhaleexhale
+	{
+		name = "inhaleexhale";
+		sound[] = {"sounds\inhaleexhale.ogg", db+1, 1};
+		titles[] = {0,""};
+	};
+	class drinkgulp
+	{
+		name = "drinkgulp";
+		sound[] = {"sounds\drinkgulp.ogg", db+1, 1};
+		titles[] = {0,""};
+	};
+	class ghostTapeSound1
+	{
+		name = "ghostTapeSound1";
+		sound[] = {"sounds\tapesound1.ogg", db+300, 1, 100};
+		titles[] = {0,""};
+	};
+	class japdrums
+	{
+		name = "japdrums";
+		sound[] = {"sounds\japdrums.ogg", db+15, 1, 100};
+		titles[] = {0,""};
+	};
+
+};
+
+
+class RscPicture 
+{ 
+access=0; 
+type=0; 
+idc=-1; 
+style=48; 
+colorBackground[]={0,0,0,0}; 
+colorText[]={1,1,1,1}; 
+font="TahomaB"; 
+sizeEx=0; 
+lineSpacing=0; 
+text=""; 
+};
+
+class RscTitles
+{
+titles[] = {introImage}; // optional
+
+class introImage
+{	
+	idd = -1;	
+	movingEnable = false;
+	duration = 7; // 10 second display time
+	fadein = 2; // 2 second fade in - 7 seconds in all.
+      fadeout = 5;
+	name = "IntroImage"; 
+	controls[] = {"image1"};
+
+	class image1: RscPicture
+	{	
+		x = -0.5;
+		y = 0;
+		w = 2;
+		h = 1;
+		text = "pics\misfitspmcnam.paa";
+	};	
+};
+};
+
+class CfgDebriefing
+{  
+	class End1
+	{
+		title = "Episode Complete";
+		subtitle = "";
+		description = "The Misfits have succesfully completed their objectives.";
+		pictureBackground = "";
+		picture = "b_inf";
+		pictureColor[] = { 0.0, 0.3, 0.6, 1 };
+	};
+};
+
+//GOM_fnc_aircraftLoadout V1.35 made by Grumpy Old Man 17-5-2017
+
+class CfgFunctions
+{
+
+	#include "scripts\GOM\functions\GOM_fnc_functions.hpp"
+
+};
+
+
+class CfgCommunicationMenu
+{
+
+	#include "scripts\GOM\functions\GOM_fnc_aircraftLoadoutMenu.hpp"
+
+};
+
+#include "scripts\GOM\dialogs\GOM_dialog_parents.hpp"
+#include "scripts\GOM\dialogs\GOM_dialog_controls.hpp"

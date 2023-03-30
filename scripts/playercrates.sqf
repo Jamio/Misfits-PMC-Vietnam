@@ -97,6 +97,18 @@ crate4 addItemCargoGlobal ["vn_mine_m14_mag", 15]; // M14 Toepoppers
 
 // Crate 5 - Jamio *****************************************************************************
 
+crate5 addWeaponCargoGlobal ["vn_xm177_xm148_camo", 1]; // XM117E2 with GL 
+crate5 addItemCargoGlobal ["vn_b_boonie_02_08", 1]; // Boonie ERDL
+crate5 addItemCargoGlobal ["vn_b_scarf_01_01", 1]; // Olive Scarf
+crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_15", 1]; // MACV6 ERDL 
+crate5 addBackpackCargoGlobal ["B_simc_rajio_Frem", 1]; // ANPRC25 Rucksack
+crate5 addItemCargoGlobal ["uns_v_simc_SF_1", 1]; // M1956 LCE 
+crate5 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 
+crate5 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
+crate5 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
+crate5 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
+crate5 addItemCargoGlobal ["ACE_EntrenchingTool", 1]; // Entrenching Tool
+
 
 // Crate 6 - Storm *****************************************************************************
 

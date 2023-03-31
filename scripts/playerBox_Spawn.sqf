@@ -66,7 +66,20 @@
 			"vn_ppsh41_71_t_mag",
 			"vn_m1895_mag",
 			"vn_pm_mag",
-			"vn_tt33_mag"
+			"vn_tt33_mag",
+			"vn_rpg2_mag",
+			"RPG7_F",
+			"vn_rpg7_mag",
+			"uns_svtmag",
+			"uns_svtmag_T",
+			"uns_ak47mag_NT",
+			"uns_ak47mag",
+			"uns_ak47mag_T",
+			"uns_sa58mag_NT",
+			"uns_sa58mag",
+			"uns_sa58mag_T",
+			"uns_30Rnd_kurtz_stg",
+			"uns_rpkmag"
 		];
 
 	private _whitelistAmmoList = _ammoList - _blacklistMags;

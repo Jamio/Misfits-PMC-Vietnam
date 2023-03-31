@@ -9,8 +9,8 @@ clearItemCargoGlobal _this;
 
 _this addItemCargoGlobal ["ACE_fieldDressing", 50];
 _this addItemCargoGlobal ["ACE_bloodIV", 10];
-_this addItemCargoGlobal ["ACE_blood_250", 30];
-_this addItemCargoGlobal ["ACE_blood_500", 20];
+_this addItemCargoGlobal ["ACE_bloodIV_250", 30];
+_this addItemCargoGlobal ["ACE_bloodIV_500", 20];
 _this addItemCargoGlobal ["ACE_epinephrine", 25];
 _this addItemCargoGlobal ["ACE_morphine", 25];
 _this addItemCargoGlobal ["ACE_splint", 20];

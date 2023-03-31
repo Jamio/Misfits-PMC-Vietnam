@@ -61,10 +61,16 @@ crate2 addItemCargoGlobal ["V_Simc_61", 1]; // M1961 Kit
 // Crate 3 - Wolfie *****************************************************************************
 
 crate3 addWeaponCargoGlobal ["vn_m1carbine", 1]; // M1 Carbine
+crate3 addWeaponCargoGlobal ["vn_l1a1_03", 1]; // L1A1 SAS
 crate3 addItemCargoGlobal ["uns_U_simc_TCU_mk1_trop_blench", 1]; // UNS Tropical Fatigues 1963
+crate3 addItemCargoGlobal ["vn_b_uniform_macv_04_02", 1]; // MACV BDU Tiger
 crate3 addItemCargoGlobal ["vn_b_uniform_k2b_02_02", 1]; // K2B USMC Heli Crew
 crate3 addItemCargoGlobal ["vn_b_helmet_aph6_01_04", 1]; // APH6 Helmet USN VA196
+crate3 addItemCargoGlobal ["vn_b_boonie_02_02", 1]; // Boonie Tiger
 crate3 addItemCargoGlobal ["vn_b_aviator", 1]; // Aviator Sunglasses
+crate3 addItemCargoGlobal ["vn_b_bandana_a", 1]; // Bandana Aviators
+crate3 addItemCargoGlobal ["nomex_2_addon", 1]; // Nomex gloves calf
+crate3 addBackpackCargoGlobal ["vn_b_pack_lw_04", 1]; // Army Engineer Pack SOG
 crate3 addItemCargoGlobal ["vn_b_vest_aircrew_05", 1]; // Vest - Army Pilot w/holster
 crate3 addItemCargoGlobal ["V_Simc_61", 1]; // SS M1961 Kit
 crate3 addItemCargoGlobal ["ACE_Flashlight_MX991", 1]; // MX-991
@@ -86,6 +92,7 @@ crate4 addItemCargoGlobal ["vn_b_aviator", 1]; // Aviator Sunglasses
 crate4 addItemCargoGlobal ["vn_b_vest_aircrew_05", 1]; // Vest - Army Pilot w/holster
 crate4 addItemCargoGlobal ["V_Simc_flak_M69", 1]; // SS 3/4 Collar Vest Closed
 crate4 addBackpackCargoGlobal ["uns_simc_USMC65_M41", 1]; // M-1941 Pack
+crate4 addBackpackCargoGlobal ["vn_b_pack_trp_03_02", 1]; // SOG Army Pack Demo
 crate4 addItemCargoGlobal ["U_Simc_TCU_mk1_blench", 1]; // Tropical Combat Fatigues 1963
 crate4 addItemCargoGlobal ["vn_b_uniform_heli_01_01", 1]; // BDU US Army Aircrew
 crate4 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
@@ -94,6 +101,7 @@ crate4 addMagazineCargoGlobal ["murshun_cigs_cigpack", 2]; // Cig Pack
 crate4 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
 crate4 addItemCargoGlobal ["ToolKit", 1]; // Toolkit
 crate4 addItemCargoGlobal ["vn_mine_m14_mag", 15]; // M14 Toepoppers
+crate4 addItemCargoGlobal ["vn_mine_m16_mag", 5]; // M16 Bounding Mine
 
 // Crate 5 - Jamio *****************************************************************************
 
@@ -139,6 +147,9 @@ crate7 addWeaponCargoGlobal ["vn_m1_garand", 1]; // M1 Garand
 crate7 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1 AUS
 crate7 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate7 addWeaponCargoGlobal ["Knife_m3", 1]; // M3 Knife
+crate7 addWeaponCargoGlobal ["vn_mx991_red", 1]; // MX991 Red
+crate7 addWeaponCargoGlobal ["uns_mkvFlarePistol", 1]; // MKV Flare Pistol
+crate7 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate7 addItemCargoGlobal ["vn_b_boonie_04_06", 1]; // Boonie F Left ERDL Brown
 crate7 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_1", 1]; // UNS Bandoleer
 crate7 addBackpackCargoGlobal ["vn_b_pack_prc77_01", 1]; // Pack Army RTO
@@ -149,7 +160,9 @@ crate7 addItemCargoGlobal ["V_Simc_flak_M69_45_belt_band", 1]; // 3/4 Collar Ves
 crate7 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate7 addItemCargoGlobal ["ACE_EntrenchingTool", 1]; // Entrenching Tool
 crate7 addItemCargoGlobal ["vn_m19_binocs_grn", 1]; // MK19 Binoculars
+crate7 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 
 crate7 addItemCargoGlobal ["ACE_Wirecutter", 1]; // ACE Wirecutter
+crate7 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 1]; // Satchel Charge
 
 
 // Crate 8 - Reeves *****************************************************************************
@@ -236,6 +249,7 @@ crate12 addItemCargoGlobal ["ATMine_Range_Mag", 5]; // M15 AT Mine
 crate12 addItemCargoGlobal ["vn_mine_m112_remote_mag", 3]; // M112 Breaching Charge
 crate12 addItemCargoGlobal ["vn_mine_m14_mag", 5]; // M14 Toepopper
 crate12 addItemCargoGlobal ["vn_mine_m16_mag", 5]; // M16 Bounding Mine
+crate12 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 2]; // Satchel Charge
 
 
 // Crate 13 - Spela ******************************************************************

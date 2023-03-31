@@ -37,6 +37,40 @@
 	private _ammoList = _ammoList arrayIntersect _ammoList;
 	private _itemList = _itemList arrayIntersect _itemList;
 
+	// remove blacklisted magazines
+
+			_blacklistMags = [
+			"vn_pk_100_mag",
+			"vn_rpd_100_mag",
+			"vn_m4956_10_mag",
+			"vn_m4956_10_t_mag",
+			"vn_sks_mag",
+			"vn_sks_t_mag",
+			"vn_rpd_125_mag",
+			"vn_vz61_mag",
+			"vn_vz61_t_mag",
+			"vn_izh54_mag",
+			"vn_izh54_so_mag",
+			"vn_type56_mag",
+			"vn_type56_t_mag",
+			"vn_mp40_mag",
+			"vn_mp40_t_mag",
+			"vn_pps_mag",
+			"vn_pps_t_mag",
+			"vn_ppsh41_35_mag",
+			"vn_ppsh41_35_t_mag",
+			"vn_dp28_mag",
+			"vn_m38_mag",
+			"vn_m38_t_mag",
+			"vn_ppsh41_71_mag",
+			"vn_ppsh41_71_t_mag",
+			"vn_m1895_mag",
+			"vn_pm_mag",
+			"vn_tt33_mag"
+		];
+
+	private _whitelistAmmoList = _ammoList - _blacklistMags;
+
 	// Add amount from player count multiplied by 15
 	private _addAmount = _playerCount * 15;
 
@@ -48,11 +82,12 @@
 		clearItemCargoGlobal _container;
 		clearBackpackCargoGlobal _container;
 
+
 		// Add mags to container based on previous player count plus multiply
 		{
 			// Add to container 
 			_container addMagazineCargoGlobal [_x, _addAmount];
-		} forEach _ammoList;
+		} forEach _whitelistAmmoList;
 		// Item list
 		{
 			_container addItemCargoGlobal [_x, _addAmount];
@@ -65,4 +100,6 @@
 		_container addItemCargoGlobal ["vn_m18_purple_mag", 20];
 		_container addItemCargoGlobal ["vn_m18_yellow_mag", 20];
 		_container addItemCargoGlobal ["vn_m18_white_mag", 20];
+
+
 		

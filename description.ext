@@ -6,14 +6,10 @@ class CfgMusic
 	tracks[] = {};
 	class buffalo
 	{
-		name	= "buffalo";
-		sound[]	= { "sounds\buffalo.ogg", db + 15, 1.0 };
+		name	= "empty";
+		sound[]	= { "sounds\empty.ogg", db + 15, 1.0 };
 	};
-	class japdrums
-	{
-		name	= "japdrums";
-		sound[]	= { "sounds\japdrums.ogg", db + 15, 1.0 };
-	};
+
 };
 
 class CfgSounds

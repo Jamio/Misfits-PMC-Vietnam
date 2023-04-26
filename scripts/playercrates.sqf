@@ -28,6 +28,7 @@ crate0 addItemCargoGlobal ["vn_m19_binocs_grn", 1]; // M19 Binoculars
 crate0 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate0 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
 crate0 addItemCargoGlobal ["vn_mine_m14_mag", 5]; // M14 Toepoppers
+crate0 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 2]; // Satchel Charge
 
 // Crate 1 - Buccaneer *****************************************************************************
 
@@ -209,6 +210,8 @@ crate9 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 1]; // Satchel Charg
 crate10 addWeaponCargoGlobal ["vn_m2carbine", 1]; // M2 Carbine
 crate10 addItemCargoGlobal ["vn_o_3x_m84", 1]; // M2 Carbine Scope
 crate10 addWeaponCargoGlobal ["vn_p38s", 1]; // .38 Revolver
+crate10 addWeaponCargoGlobal ["vn_hp", 1]; // HP Automatic
+crate10 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
 crate10 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Olive)
 crate10 addItemCargoGlobal ["H_Simc_M1_g_farch_flip", 1]; // M1 Helmet Graffiti Fuck
 crate10 addItemCargoGlobal ["vn_b_boonie_02_01", 1]; // SOG Boonie Green

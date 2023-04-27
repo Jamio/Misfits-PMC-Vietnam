@@ -185,8 +185,9 @@ crate8 addItemCargoGlobal ["vn_b_uniform_macv_05_15", 1]; // BDU MACV 5 ERDL
 crate8 addItemCargoGlobal ["vn_b_boonie_04_08", 1]; //  Boonie F/left ERDL
 crate8 addBackpackCargoGlobal ["uns_simc_rajio_M43_1", 1]; // AN/PRC 25 
 crate8 addItemCargoGlobal ["vn_anpvs2_binoc", 1]; // Starlight ANPVS2 (NV)
+crate8 addItemCargoGlobal ["ACE_M26_Clacker", 1]; // M152 Firing Device
 crate8 addItemCargoGlobal ["vn_mine_m14_mag", 3]; // M14 Toepopper
-crate8 addItemCargoGlobal ["vn_mine_m112_remote_mag", 3]; // M112 Breaching Charge 
+crate8 addItemCargoGlobal ["vn_mine_m112_remote_mag", 10]; // M112 Breaching Charge 
 crate8 addItemCargoGlobal ["nomex_2_addon", 1]; // Nomex gloves
 
 // Crate 9 - Leroson *****************************************************************************
@@ -220,6 +221,7 @@ crate10 addBackpackCargoGlobal ["vn_b_pack_trp_01_02", 1]; // Pack Army Tropical
 crate10 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate10 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate10 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
+crate10 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 2]; // Satchel Charge
 
 
 

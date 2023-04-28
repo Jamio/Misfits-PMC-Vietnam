@@ -186,7 +186,8 @@ crate8 addBackpackCargoGlobal ["uns_simc_rajio_M43_1", 1]; // AN/PRC 25
 crate8 addItemCargoGlobal ["vn_anpvs2_binoc", 1]; // Starlight ANPVS2 (NV)
 crate8 addItemCargoGlobal ["vn_mine_m14_mag", 3]; // M14 Toepopper
 crate8 addItemCargoGlobal ["vn_mine_m112_remote_mag", 3]; // M112 Breaching Charge 
-crate8 addItemCargoGlobal ["nomex_2_addon", 1]; // Nomex gloves
+crate8 addItemCargoGlobal ["nomex_2_addon", 1]; // Nomex gloves 
+crate8 addItemCargoGlobal ["V_Simc_flak_M69_bandoleer_belt", 1]; // 3/4 Collar Vest/LCE/Bandoleer
 
 // Crate 9 - Leroson *****************************************************************************
 

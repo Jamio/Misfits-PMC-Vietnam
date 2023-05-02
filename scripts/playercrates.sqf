@@ -219,6 +219,7 @@ crate10 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate10 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate10 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
 crate10 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charge
+crate10 addItemCargoGlobal ["ACE_M26_Clacker", 1]; // M512 Firing Device
 
 
 

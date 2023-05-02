@@ -141,6 +141,7 @@ crate6 addItemCargoGlobal ["vn_mine_m112_remote_mag", 1]; // M112 Breaching Char
 crate6 addItemCargoGlobal ["vn_mine_tripwire_m16_02_mag", 3]; // M16 Tripwire Mine
 crate6 addItemCargoGlobal ["vn_mine_m14_mag", 5]; // M14 Toepopper
 crate6 addItemCargoGlobal ["vn_mine_m16_mag", 3]; // M16 Bounding Mine
+crate6 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charge
 
 
 // Crate 7 - Ixo *****************************************************************************
@@ -164,7 +165,7 @@ crate7 addItemCargoGlobal ["ACE_EntrenchingTool", 1]; // Entrenching Tool
 crate7 addItemCargoGlobal ["vn_m19_binocs_grn", 1]; // MK19 Binoculars
 crate7 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 
 crate7 addItemCargoGlobal ["ACE_Wirecutter", 1]; // ACE Wirecutter
-crate7 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 1]; // Satchel Charge
+crate7 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charge
 
 
 // Crate 8 - Reeves *****************************************************************************
@@ -184,7 +185,7 @@ crate8 addItemCargoGlobal ["vn_b_boonie_04_08", 1]; //  Boonie F/left ERDL
 crate8 addBackpackCargoGlobal ["uns_simc_rajio_M43_1", 1]; // AN/PRC 25 
 crate8 addItemCargoGlobal ["vn_anpvs2_binoc", 1]; // Starlight ANPVS2 (NV)
 crate8 addItemCargoGlobal ["vn_mine_m14_mag", 3]; // M14 Toepopper
-crate8 addItemCargoGlobal ["vn_mine_m112_remote_mag", 3]; // M112 Breaching Charge 
+crate8 addItemCargoGlobal ["vn_mine_m112_remote_mag", 10]; // M112 Breaching Charge 
 crate8 addItemCargoGlobal ["nomex_2_addon", 1]; // Nomex gloves 
 crate8 addItemCargoGlobal ["V_Simc_flak_M69_bandoleer_belt", 1]; // 3/4 Collar Vest/LCE/Bandoleer
 
@@ -217,6 +218,7 @@ crate10 addBackpackCargoGlobal ["vn_b_pack_trp_01_02", 1]; // Pack Army Tropical
 crate10 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate10 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate10 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
+crate10 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charge
 
 
 

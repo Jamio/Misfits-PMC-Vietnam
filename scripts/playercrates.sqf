@@ -127,7 +127,6 @@ crate6 addWeaponCargoGlobal ["vn_m1_garand", 1]; // M1 Garand
 crate6 addWeaponCargoGlobal ["vn_m14", 1]; // M14
 crate6 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
 crate6 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
-crate6 addItemCargoGlobal ["uns_U_simc_TCU_mk1_trop_blench", 1]; // UNS Tropical Combat Fatigues 1963
 crate6 addItemCargoGlobal ["vn_b_helmet_m1_02_01", 1]; // M1 Helmet Camo
 crate6 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_doppel_2", 1]; // 2x Bandoleer
 crate6 addBackpackCargoGlobal ["B_simc_pack_frem_med5", 1]; // Lightweight Rucksack Medic M5
@@ -248,10 +247,11 @@ crate12 addWeaponCargoGlobal ["vn_l1a1_01_camo", 1]; // L1A1 AUS CAMO
 crate12 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
 crate12 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate12 addItemCargoGlobal ["vn_b_helmet_m1_05_01", 1]; // Helmet M1 5 Camo
+crate12 addItemCargoGlobal ["UNS_JP_Helmet_352TFS", 1]; // Jet Pilot Helmet USAF 352nd
 crate12 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Olive)
 crate12 addItemCargoGlobal ["vn_b_uniform_macv_06_02", 1]; // BDU MACV6 Tiger
 crate12 addItemCargoGlobal ["V_Simc_flak_M69_alt", 1]; // 3/4 Collar Vest LCE
-crate12 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_doppel_2", 1]; // SS Bandoleer 2x
+crate12 addBackpackCargoGlobal ["vn_i_pack_parachute_01", 1]; // Parachute
 crate12 addBackpackCargoGlobal ["B_simc_MC_rajio_base", 1]; // USMC ANPRC25
 crate12 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate12 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
@@ -395,7 +395,6 @@ crate22 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 
 // Crate 23 - Dave **********************************************************************************
 
-crate23 addWeaponCargoGlobal ["vn_l1a1_03", 1]; // L1A1 SAS
 crate23 addItemCargoGlobal ["U_Simc_TCU_mk3_tuck", 1]; // TCU 1967
 crate23 addItemCargoGlobal ["vn_b_bandana_01", 1]; // Bandana Green
 crate23 addItemCargoGlobal ["H_Simc_MC_M1C_bitch_low_rot", 1]; // M1C Helmet

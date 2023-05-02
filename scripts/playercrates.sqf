@@ -108,7 +108,8 @@ crate4 addItemCargoGlobal ["vn_mine_m16_mag", 5]; // M16 Bounding Mine
 
 // Crate 5 - Jamio *****************************************************************************
 
-crate5 addWeaponCargoGlobal ["vn_xm177_xm148_camo", 1]; // XM117E2 with GL 
+crate5 addWeaponCargoGlobal ["vn_xm177_xm148_camo", 1]; // XM117E2 with GL
+crate5 addWeaponCargoGlobal ["vn_m16_m203_camo", 1]; // M16A1 M203 
 crate5 addItemCargoGlobal ["vn_b_boonie_02_08", 1]; // Boonie ERDL
 crate5 addItemCargoGlobal ["vn_b_scarf_01_01", 1]; // Olive Scarf
 crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_15", 1]; // MACV6 ERDL 

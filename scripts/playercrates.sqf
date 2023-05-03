@@ -108,13 +108,15 @@ crate4 addItemCargoGlobal ["vn_mine_m16_mag", 5]; // M16 Bounding Mine
 
 // Crate 5 - Jamio *****************************************************************************
 
-crate5 addWeaponCargoGlobal ["vn_xm177_xm148_camo", 1]; // XM117E2 with GL
-crate5 addWeaponCargoGlobal ["vn_m16_m203_camo", 1]; // M16A1 M203 
-crate5 addItemCargoGlobal ["vn_b_boonie_02_08", 1]; // Boonie ERDL
+crate5 addWeaponCargoGlobal ["vn_m16_m203_camo", 1]; // M16A1 M203
+crate5 addWeaponCargoGlobal ["vn_mx991_m1911", 1]; // M1911 Flashlight 
+crate5 addItemCargoGlobal ["uns_simc_M1_erdl_up", 1]; // M1 ERDL
 crate5 addItemCargoGlobal ["vn_b_scarf_01_01", 1]; // Olive Scarf
-crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_15", 1]; // MACV6 ERDL 
-crate5 addBackpackCargoGlobal ["B_simc_rajio_Frem", 1]; // ANPRC25 Rucksack
-crate5 addItemCargoGlobal ["uns_v_simc_SF_1", 1]; // M1956 LCE 
+crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_06", 1]; // MACV6 ERDL 
+crate5 addBackpackCargoGlobal ["B_simc_rajio_Frem_2", 1]; // ANPRC25 Rucksack
+crate5 addItemCargoGlobal ["V_Simc_56_med", 1]; // M1956 LCE Medic
+crate5 addItemCargoGlobal ["bandolier_556_addon", 1]; // Bandoleer duplet
+crate5 addItemCargoGlobal ["G_Nomex_2_cut", 1]; // Nomex Gloves
 crate5 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 
 crate5 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate5 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack

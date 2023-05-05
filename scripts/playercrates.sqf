@@ -150,6 +150,7 @@ crate6 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charg
 // Crate 7 - Ixo *****************************************************************************
 
 crate7 addWeaponCargoGlobal ["vn_m1_garand", 1]; // M1 Garand
+crate7 addWeaponCargoGlobal ["vn_m16_m203", 1]; // M16 M203
 crate7 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1 AUS
 crate7 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate7 addWeaponCargoGlobal ["Knife_m3", 1]; // M3 Knife
@@ -196,10 +197,13 @@ crate8 addItemCargoGlobal ["ACE_M26_Clacker", 1]; // M512 Firing Device
 // Crate 9 - Leroson *****************************************************************************
 
 crate9 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1
+crate9 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate9 addItemCargoGlobal ["vn_b_helmet_m1_07_01", 1]; // Helmet M1 7 Camo
 crate9 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Olive)
 crate9 addBackpackCargoGlobal ["vn_b_pack_lw_07", 1]; // Pack - Army Medic
+crate9 addBackpackCargoGlobal ["uns_simc_rajio_4", 1]; // ANPRC25
 crate9 addItemCargoGlobal ["V_Simc_61", 1]; // M1961 Kit
+crate9 addItemCargoGlobal ["V_Simc_flak_M69_med", 1]; // 3/4 Vest Medic
 crate9 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate9 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate9 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
@@ -393,6 +397,7 @@ crate21 addItemCargoGlobal ["ACE_EntrenchingTool", 1]; // Entrenching Tool
 // Crate 22 - Cuch *********************************************************************************
 
 crate22 addWeaponCargoGlobal ["vn_m1918", 1]; // M1918A2 BAR
+crate22 addWeaponCargoGlobal ["uns_m870", 1]; // M870 Express
 crate22 addItemCargoGlobal ["U_Simc_TCU_mk3_tuck", 1]; // TCU 1967
 crate22 addItemCargoGlobal ["vn_b_boonie_02_01", 1]; // Boonie Green
 crate22 addItemCargoGlobal ["uns_simc_flak_55_open", 1]; // M1955 Vest
@@ -402,6 +407,8 @@ crate22 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 
 // Crate 23 - Dave **********************************************************************************
 
+crate23 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1
+crate23 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate23 addItemCargoGlobal ["U_Simc_TCU_mk3_tuck", 1]; // TCU 1967
 crate23 addItemCargoGlobal ["vn_b_bandana_01", 1]; // Bandana Green
 crate23 addItemCargoGlobal ["H_Simc_MC_M1C_bitch_low_rot", 1]; // M1C Helmet

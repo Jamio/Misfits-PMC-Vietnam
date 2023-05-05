@@ -35,6 +35,7 @@ crate1 addWeaponCargoGlobal ["vn_m1928_tommy", 1]; // M1928 Tommy Gun
 crate1 addWeaponCargoGlobal ["vn_l1a1_03", 1]; // L1A1 SAS
 crate1 addWeaponCargoGlobal ["vn_hp", 1]; // HP Automatic
 crate1 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate1 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate1 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate1 addItemCargoGlobal ["vn_b_uniform_macv_04_02", 1]; // BDU MACV4 Tiger
 crate1 addItemCargoGlobal ["vn_b_acc_rag_02", 1]; // Scrim Scarf 2
@@ -89,6 +90,7 @@ crate4 addWeaponCargoGlobal ["vn_m1928_tommy", 1]; // M1928 Tommy Gun
 crate4 addWeaponCargoGlobal ["vn_hp", 1]; // HP Automatic
 crate4 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Single Use Flare Launcher
 crate4 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate4 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate4 addItemCargoGlobal ["vn_b_helmet_aph6_01_04", 1]; // APH6 Helmet USN VA196
 crate4 addItemCargoGlobal ["vn_b_helmet_t56_02_02", 1]; // T56 Helmet 1 with goggles
 crate4 addItemCargoGlobal ["vn_b_aviator", 1]; // Aviator Sunglasses
@@ -129,6 +131,7 @@ crate5 addItemCargoGlobal ["ACE_EntrenchingTool", 1]; // Entrenching Tool
 crate6 addWeaponCargoGlobal ["vn_m1_garand", 1]; // M1 Garand
 crate6 addWeaponCargoGlobal ["vn_m14", 1]; // M14
 crate6 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate6 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate6 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate6 addItemCargoGlobal ["vn_b_helmet_m1_02_01", 1]; // M1 Helmet Camo
 crate6 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_doppel_2", 1]; // 2x Bandoleer
@@ -311,6 +314,7 @@ crate14 addBackpackCargoGlobal ["uns_simc_rajio_3_alt", 1]; // AN/PRC 25 pack
 crate15 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1
 crate15 addWeaponCargoGlobal ["vn_m1897", 1]; // M1897 Shotgun
 crate15 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate15 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate15 addItemCargoGlobal ["vn_b_helmet_m1_12_01", 1]; // ROK Jungle M1 Helmet
 crate15 addBackpackCargoGlobal ["vn_b_pack_lw_01", 1]; // Pack Army Rifleman
 crate15 addItemCargoGlobal ["vn_b_acc_towel_02", 1]; // Towel 2
@@ -332,6 +336,7 @@ crate15 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
 crate17 addWeaponCargoGlobal ["vn_m1897", 1]; // M1897 Shotgun
 crate17 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate17 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate17 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate17 addItemCargoGlobal ["H_Simc_M1_g3", 1]; // SS M1 Helmet (Graffiti)
 crate17 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Olive)
 crate17 addItemCargoGlobal ["vn_b_uniform_macv_06_15", 1]; // BDU MACV 6 ERDL
@@ -424,6 +429,7 @@ crate23 addItemCargoGlobal ["ACE_wirecutter", 1]; // Wirecutters
 crate24 addWeaponCargoGlobal ["vn_l1a1_03", 1]; // L1A1 SAS
 crate24 addWeaponCargoGlobal ["vn_hp", 1]; // HP Automatic
 crate24 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
+crate24 addMagazineCargoGlobal ["vn_m72_mag", 1]; // M72 Rocket (required)
 crate24 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate24 addItemCargoGlobal ["vn_b_uniform_macv_04_02", 1]; // BDU MACV4 Tiger
 crate24 addItemCargoGlobal ["vn_b_acc_rag_02", 1]; // Scrim Scarf 2

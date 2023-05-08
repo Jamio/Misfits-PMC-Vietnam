@@ -266,10 +266,11 @@ crate12 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Oli
 crate12 addItemCargoGlobal ["vn_b_uniform_macv_06_02", 1]; // BDU MACV6 Tiger
 crate12 addItemCargoGlobal ["V_Simc_flak_M69_alt", 1]; // 3/4 Collar Vest LCE
 crate12 addBackpackCargoGlobal ["vn_i_pack_parachute_01", 1]; // Parachute
-crate12 addBackpackCargoGlobal ["B_simc_MC_rajio_base", 1]; // USMC ANPRC25
+crate12 addBackpackCargoGlobal ["uns_simc_rajio_flak_2_a", 1]; // USMC ANPRC25
 crate12 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate12 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate12 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
+crate12 addItemCargoGlobal ["vn_mk21_binocs", 1]; // Binoculars MK21
 crate12 addItemCargoGlobal ["vn_b_item_trapkit", 1]; // Trap Kit
 crate12 addItemCargoGlobal ["ACE_DefusalKit", 1]; // Defusal Kit
 crate12 addItemCargoGlobal ["ATMine_Range_Mag", 5]; // M15 AT Mine

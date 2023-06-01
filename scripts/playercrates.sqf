@@ -227,7 +227,6 @@ crate9 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // SOG BDU MACV1 (Oliv
 crate9 addBackpackCargoGlobal ["vn_b_pack_lw_07", 1]; // Pack - Army Medic
 crate9 addBackpackCargoGlobal ["uns_simc_rajio_4", 1]; // ANPRC25
 crate9 addItemCargoGlobal ["V_Simc_61", 1]; // M1961 Kit
-crate9 addItemCargoGlobal ["V_Simc_flak_M69_med", 1]; // 3/4 Vest Medic
 crate9 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate9 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate9 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter

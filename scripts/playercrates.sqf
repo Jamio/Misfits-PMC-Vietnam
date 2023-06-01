@@ -232,7 +232,6 @@ crate9 addItemCargoGlobal ["vn_b_item_radio_urc10", 1]; // SR Radio
 crate9 addMagazineCargoGlobal ["murshun_cigs_cigpack", 1]; // Cig Pack
 crate9 addMagazineCargoGlobal ["murshun_cigs_lighter", 1]; // Lighter
 crate9 addItemCargoGlobal ["ACE_personalAidKit", 1]; // ACE PAK
-crate9 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope 
 crate9 addItemCargoGlobal ["uns_simc_m1_bitch_b7", 1]; // M1 Helmet (Mitchell/Bandages)
 crate9 addItemCargoGlobal ["V_Simc_flak_M69_med", 1]; // 3/4 Collar Vest LCE Medic
 crate9 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 1]; // Satchel Charge
@@ -303,6 +302,7 @@ crate12 addItemCargoGlobal ["vn_mine_m112_remote_mag", 3]; // M112 Breaching Cha
 crate12 addItemCargoGlobal ["vn_mine_m14_mag", 5]; // M14 Toepopper
 crate12 addItemCargoGlobal ["vn_mine_m16_mag", 5]; // M16 Bounding Mine
 crate12 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 2]; // Satchel Charge
+crate12 addItemCargoGlobal ["ACE_M26_Clacker", 1]; // M512 Firing Device
 
 
 // Crate 13 - Spela ******************************************************************

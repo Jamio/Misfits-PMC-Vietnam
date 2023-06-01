@@ -126,6 +126,7 @@ crate5 addItemCargoGlobal ["vn_b_scarf_01_01", 1]; // Olive Scarf
 crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_06", 1]; // MACV6 ERDL 
 crate5 addBackpackCargoGlobal ["B_simc_rajio_Frem_2", 1]; // ANPRC25 Rucksack
 crate5 addItemCargoGlobal ["V_Simc_56_med", 1]; // M1956 LCE Medic
+crate5 addItemCargoGlobal ["V_Simc_flak_M69_45_belt", 1]; // 3/4 Collar 40mm Ammo
 crate5 addItemCargoGlobal ["bandolier_556_addon", 1]; // Bandoleer duplet
 crate5 addItemCargoGlobal ["G_Nomex_2_cut", 1]; // Nomex Gloves
 crate5 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 

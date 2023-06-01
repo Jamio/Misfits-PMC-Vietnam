@@ -151,7 +151,7 @@ crate6 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate6 addWeaponCargoGlobal ["uns_mkvFlarePistol", 1]; // MKV Flare Pistol
 crate6 addItemCargoGlobal ["vn_b_uniform_macv_01_07", 1]; // MACV BDU Olive
 crate6 addItemCargoGlobal ["vn_b_helmet_m1_02_01", 1]; // M1 Helmet Camo
-crate6 addItemCargoGlobal ["vn_b_boonie_02_01", 1] // Boonie Green
+crate6 addItemCargoGlobal ["vn_b_boonie_02_01", 1]; // Boonie Green
 crate6 addItemCargoGlobal ["vn_b_headband_01", 1]; // Headband Green
 crate6 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_doppel_2", 1]; // 2x Bandoleer
 crate6 addBackpackCargoGlobal ["B_simc_pack_frem_med5", 1]; // Lightweight Rucksack Medic M5

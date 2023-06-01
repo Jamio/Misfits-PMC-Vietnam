@@ -120,7 +120,11 @@ crate4 addItemCargoGlobal ["ACE_M26_Clacker", 1]; // M152 Firing Device
 // Crate 5 - Jamio *****************************************************************************
 
 crate5 addWeaponCargoGlobal ["vn_m16_m203_camo", 1]; // M16A1 M203
-crate5 addWeaponCargoGlobal ["vn_mx991_m1911", 1]; // M1911 Flashlight 
+crate5 addWeaponCargoGlobal ["vn_m45_camo", 1]; // M45 SMG
+crate5 addItemCargoGlobal ["vn_m45_camo", 1]; // M45 SMG Suppressor
+crate5 addWeaponCargoGlobal ["vn_mx991_m1911", 1]; // M1911 Flashlight
+crate5 addWeaponCargoGlobal ["vn_m1911", 1]; // M1911
+crate5 addItemCargoGlobal ["vn_s_m1911", 1]; // m1911 Silencer 
 crate5 addItemCargoGlobal ["uns_simc_M1_erdl_up", 1]; // M1 ERDL
 crate5 addItemCargoGlobal ["vn_b_scarf_01_01", 1]; // Olive Scarf
 crate5 addItemCargoGlobal ["vn_b_uniform_macv_06_06", 1]; // MACV6 ERDL 

@@ -178,6 +178,8 @@ crate7 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate7 addWeaponCargoGlobal ["Knife_m3", 1]; // M3 Knife
 crate7 addWeaponCargoGlobal ["vn_mx991_red", 1]; // MX991 Red
 crate7 addWeaponCargoGlobal ["uns_mkvFlarePistol", 1]; // MKV Flare Pistol
+crate7 addWeaponCargoGlobal ["vn_m1911", 1]; // M1911
+crate7 addItemCargoGlobal ["vn_s_m1911", 1]; // m1911 Silencer 
 crate7 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate7 addItemCargoGlobal ["vn_b_boonie_04_06", 1]; // Boonie F Left ERDL Brown
 crate7 addBackpackCargoGlobal ["uns_simc_US_Bandoleer_556_1", 1]; // UNS Bandoleer

@@ -91,6 +91,7 @@ crate3 addItemCargoGlobal ["ToolKit", 1]; // Toolkit
 
 crate4 addWeaponCargoGlobal ["vn_m1928_tommy", 1]; // M1928 Tommy Gun
 crate4 addWeaponCargoGlobal ["vn_m60", 1]; // M60
+crate4 addWeaponCargoGlobal ["vn_m79", 1]; // M79 GL
 crate4 addWeaponCargoGlobal ["vn_hp", 1]; // HP Automatic
 crate4 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Single Use Flare Launcher
 crate4 addWeaponCargoGlobal ["vn_m72", 1]; // M72 LAW
@@ -200,9 +201,10 @@ crate7 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charg
 
 // Crate 8 - Reeves *****************************************************************************
 
-crate8 addWeaponCargoGlobal ["vn_l1a1_01_camo", 1]; // L1A1 AUS CAMO
-crate8 addItemCargoGlobal ["vn_o_3x_l1a1", 1]; // L1A1 Scope
 crate8 addWeaponCargoGlobal ["vn_m16_m203", 1]; // M16A1 M203
+crate8 addWeaponCargoGlobal ["vn_mpu", 1]; // MPU
+crate8 addItemCargoGlobal ["vn_s_mpu", 1]; // MPU Suppressor
+crate8 addWeaponCargoGlobal ["vn_m63a", 1]; // M63A
 crate8 addWeaponCargoGlobal ["vn_mk22", 1]; // MK22 Mod 0
 crate8 addItemCargoGlobal ["vn_s_mk22", 1]; // MK22 Silencer
 crate8 addWeaponCargoGlobal ["vn_m20a1b1_01", 1]; // Super Bazooka
@@ -500,6 +502,8 @@ crate24 addBackpackCargoGlobal ["vn_b_pack_lw_01", 1]; // Pack Army Rifleman
 // Crate 25 - Azu *******************************************************************************************
 
 crate25 addWeaponCargoGlobal ["vn_l1a1_01", 1]; // L1A1
+crate25 addWeaponCargoGlobal ["vn_m45", 1]; // M/45 SMG
+crate25 addItemCargoGlobal ["vn_s_m45", 1]; // M/45 Suppressor
 crate25 addWeaponCargoGlobal ["vn_m127", 1]; // M127 Flare Launcher
 crate25 addWeaponCargoGlobal ["vn_mx991_m1911", 1]; // M1911 Flashlight
 crate25 addItemCargoGlobal ["U_Simc_TCU_mk3_mc", 1]; // TCF 1967

@@ -205,6 +205,8 @@ crate7 addItemCargoGlobal ["vn_m19_binocs_grn", 1]; // MK19 Binoculars
 crate7 addItemCargoGlobal ["vn_mk21_binocs", 1]; // MK21 Binos 
 crate7 addItemCargoGlobal ["ACE_Wirecutter", 1]; // ACE Wirecutter
 crate7 addItemCargoGlobal ["vn_mine_satchel_remote_02_mag", 3]; // Satchel Charge
+crate7 addItemCargoGlobal ["vn_b_item_trapkit", 1]; // Trap Kit
+crate7 addItemCargoGlobal ["ACE_DefusalKit", 1]; // Defusal Kit
 
 
 // Crate 8 - Reeves *****************************************************************************
